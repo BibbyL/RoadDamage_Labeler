@@ -20,7 +20,7 @@ Road Damage Label Tool_v0.2
 
 Key	function
 W/↑	Move down the label position 
-S/↓	Move up the label position 
+S/↓	Move up the label position
 A/←	Move left the label position 
 D/→	Move right the label position 
 Swift	Crop the Image 
